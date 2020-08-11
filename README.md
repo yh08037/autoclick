@@ -4,7 +4,7 @@ AutoHotKey를 활용한 자동 마우스 입력 프로그램
 
 
 ## 필요한 프로그램
-AutoHotKey : 키보드, 마우스 조이스틱 등의 핫키를 지원하는 매크로 프로그램
+AutoHotKey : 키보드, 마우스, 조이스틱 등의 핫키를 지원하는 매크로 프로그램
 
 설치 - www.autohotkey.com
 
